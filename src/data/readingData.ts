@@ -1,0 +1,21 @@
+import { ReadingPassage } from '../types/quiz';
+
+export const danielGolemanPassage: ReadingPassage = {
+  id: 'passage-daniel-goleman',
+  title: 'Daniel Goleman and Emotional Intelligence',
+  authorOrSubject: 'Daniel Goleman',
+  wordCount: 228,
+  content: [
+    'Daniel Goleman is an acclaimed American psychologist, scientific journalist, and author. Born in Stockton, California in 1946 to university professor parents, he developed an early interest in human behavior and scholarship. After attending Amherst College and the University of California at Berkeley, Goleman graduated magna cum laude from Amherst. He subsequently received a prestigious Ford Foundation fellowship to pursue doctoral studies at Harvard University, where he earned his PhD in clinical psychology under the mentorship of David C. McClelland.',
+    'Upon McClelland\'s recommendation, Goleman began writing for Psychology Today magazine. He also spent extended periods conducting research in India and Sri Lanka on scholarship grants, which inspired his first book on contemplative mental practices. In 1984, The New York Times hired Goleman as a science reporter specializing in psychology and neurology, a position he held for twelve years.',
+    'In 1995, Goleman published his landmark international bestseller, Emotional Intelligence: Why It Can Matter More Than IQ. The book transformed modern perspectives by demonstrating that self-awareness, empathy, and emotional self-regulation often predict personal and professional success more accurately than cognitive intelligence alone.',
+    'Beyond his writing, Goleman co-founded the Collaborative for Academic, Social, and Emotional Learning (CASEL) at Yale University and co-directs the Consortium for Research on Emotional Intelligence in Organizations at Rutgers University. Today, his empirical frameworks continue to shape contemporary leadership and educational curricula worldwide.'
+  ],
+  contentSpanish: [
+    'Daniel Goleman es un aclamado psicólogo, periodista científico y autor estadounidense. Nacido en Stockton, California, en 1946, de padres profesores universitarios, desarrolló un temprano interés por el comportamiento humano y la vida académica. Tras asistir al Amherst College y a la Universidad de California en Berkeley, Goleman se graduó magna cum laude de Amherst. Posteriormente recibió una prestigiosa beca de la Fundación Ford para cursar estudios de doctorado en la Universidad de Harvard, donde obtuvo su doctorado (PhD) en psicología clínica bajo la tutoría de David C. McClelland.',
+    'Por recomendación de McClelland, Goleman comenzó a escribir para la revista Psychology Today. También pasó largos periodos realizando investigaciones en India y Sri Lanka gracias a becas, lo que inspiró su primer libro sobre prácticas mentales contemplativas. En 1984, The New York Times contrató a Goleman como reportero científico especializado en psicología y neurología, un cargo que desempeñó durante doce años.',
+    'En 1995, Goleman publicó su emblemático éxito de ventas internacional, Inteligencia Emocional: Por qué puede importar más que el coeficiente intelectual. El libro transformó las perspectivas modernas al demostrar que la autoconciencia, la empatía y la autorregulación emocional con frecuencia predicen el éxito personal y profesional con mayor precisión que la inteligencia cognitiva por sí sola.',
+    'Más allá de sus publicaciones, Goleman cofundó la organización Colaborativa para el Aprendizaje Académico, Social y Emocional (CASEL) en la Universidad de Yale y codirige el Consorcio para la Investigación sobre Inteligencia Emocional en las Organizaciones en la Universidad de Rutgers. Hoy en día, sus marcos empíricos continúan orientando el liderazgo contemporáneo y los planes de estudio educativos en todo el mundo.'
+  ],
+  summarySpanish: 'Daniel Goleman es un psicólogo y periodista científico estadounidense nacido en 1946. Obtuvo su doctorado en Harvard bajo la supervisión de David McClelland. Trabajó en Psychology Today y The New York Times. En 1995 publicó su exitoso libro "Inteligencia Emocional", argumentando que habilidades como la autorregulación y la empatía son fundamentales para el éxito. Cofundó CASEL en Yale y codirige un consorcio de investigación en la Universidad de Rutgers.'
+};

@@ -1,0 +1,8 @@
+{
+  "name": "Evidencia GA3-240202501-AA2-EV01. Cuestionario",
+  "description": "Interactive English practice application for SENA apprentices covering modal verbs, conditionals, scrambled word order, and reading comprehension.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
